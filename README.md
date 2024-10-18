@@ -1,4 +1,4 @@
-# FitCRUD-Gym-Management-Web-App# SignUpX : User Registration System with Java Servlets, JSP, and MySQL
+# SignUpX : User Registration System with Java Servlets, JSP, and MySQL
 
 
 
