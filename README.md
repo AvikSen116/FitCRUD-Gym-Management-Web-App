@@ -42,15 +42,16 @@ f) Deployment on Tomcat 10.1: The application is hosted on a local server for ef
 
 # Snapshot of SignUpX: User Registration Form
 
-![image](https://github.com/user-attachments/assets/d17ac7e2-15aa-49dd-bbd6-9ea34ac766f3)
+![image](https://github.com/user-attachments/assets/8338331a-64d7-43ba-ae4a-c0765d592ff4)
 
 
 # Snapshot of SignUpX: 2nd Page After Submit Button
 
-![image](https://github.com/user-attachments/assets/fbb899ba-46da-4d4d-a74e-f4a11931516f)
+![image](https://github.com/user-attachments/assets/a2fc01c4-9774-499f-b6f1-df37cea71889)
 
 # Snapshot of SignUpX: Database Table Entry
-![image](https://github.com/user-attachments/assets/29898533-fdde-46f3-b235-774c82fe151d)
+![image](https://github.com/user-attachments/assets/90ffd63d-b84a-4153-8fc3-dfe4644be9b8)
+
 
 
 
