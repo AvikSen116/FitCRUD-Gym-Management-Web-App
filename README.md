@@ -45,7 +45,7 @@ f) Deployment on Tomcat 10.1: The application is hosted on a local server for ef
 ![image](https://github.com/user-attachments/assets/d17ac7e2-15aa-49dd-bbd6-9ea34ac766f3)
 
 
-# Snapshot of SignUpX: 2nd Page After Submit
+# Snapshot of SignUpX: 2nd Page After Submit Button
 
 ![image](https://github.com/user-attachments/assets/fbb899ba-46da-4d4d-a74e-f4a11931516f)
 
