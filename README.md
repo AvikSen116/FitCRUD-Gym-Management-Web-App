@@ -2,13 +2,13 @@
 
 
 
-# Problem Statement
+# 📋 Problem Statement
 
 
 Web applications often require a robust system for user registration to store user details securely and efficiently. Many registration systems struggle with issues such as poor form validation, a lack of database integration, and no feedback to users upon successful registration. This leads to user frustration and inefficient management of data.
 
 
-## Project Overview:
+## 🌟 Project Overview:
  
 
 The User Registration System is designed to allow users to easily sign up with their details, using Java Servlets and JSP for backend and frontend functionality, and MySQL to securely store user information. It provides real-time form validation, integrates with a database to store user data, and offers feedback to users on successful registration. The system is deployed on Tomcat 10.1, ensuring it is lightweight and scalable.
@@ -31,16 +31,16 @@ The User Registration System is designed to allow users to easily sign up with t
 - **Responsive Design:** Employs Materialize CSS for a modern, user-friendly interface.
 
 
-# Snapshot of SignUpX: User Registration Form
+# 📸 Snapshot of SignUpX: User Registration Form
 
 ![image](https://github.com/user-attachments/assets/8338331a-64d7-43ba-ae4a-c0765d592ff4)
 
 
-# Snapshot of SignUpX: 2nd Page After Submit Button
+# 📸 Snapshot of SignUpX: 2nd Page After Submit Button
 
 ![image](https://github.com/user-attachments/assets/a2fc01c4-9774-499f-b6f1-df37cea71889)
 
-# Snapshot of SignUpX: Database Table Entry
+# 📸 Snapshot of SignUpX: Database Table Entry
 ![image](https://github.com/user-attachments/assets/90ffd63d-b84a-4153-8fc3-dfe4644be9b8)
 
 
