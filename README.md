@@ -43,6 +43,9 @@ The User Registration System is designed to allow users to easily sign up with t
 # 📸 Snapshot of SignUpX: Database Table Entry
 ![image](https://github.com/user-attachments/assets/90ffd63d-b84a-4153-8fc3-dfe4644be9b8)
 
+## 📧 Contact
+Feel free to connect with me via [LinkedIn](https://www.linkedin.com/in/avik-sen-043379273/) or check out my projects on [GitHub](https://github.com/AvikSen116).
+
 
 
 
